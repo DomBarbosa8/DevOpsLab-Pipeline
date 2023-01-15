@@ -12,11 +12,9 @@ DevOps na Prática - Criando uma Pipeline do Zero
 
 <!-- Insira aqui a Flag com sua URL do Travis -->
 
-<<<<<<< HEAD
 [![Build Status](https://app.travis-ci.com/DomBarbosa8/DevOpsLab-Pipeline.svg?branch=master)](https://app.travis-ci.com/DomBarbosa8/DevOpsLab-Pipeline)
 =======
 [![Build Status](https://travis-ci.org/MatheusFerrazz/DevOpsLab_Pipeline.svg?branch=master)](https://travis-ci.org/MatheusFerrazz/DevOpsLab_Pipeline)
->>>>>>> dc558752fef2a7eca44df399c4f1974c6e6d9396
 
 <p  align="center">
     <a  href="#-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
